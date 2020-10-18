@@ -13,4 +13,4 @@ I first began by wiring the L293D IC to the motors and the arduino without the d
  
  ![image](https://user-images.githubusercontent.com/51526106/96365648-1a1a1d00-1110-11eb-8fd8-7fbc3eb36ba9.png)
 
-
+To view and simulate the program click [Here](https://www.tinkercad.com/things/7fixDx3YHXB)
