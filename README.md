@@ -7,3 +7,5 @@ For this training module we were required to program an arduino to power 2 gear 
   - potentiometer
   - Dip Switch
   - 9V Battery
+  
+ 
